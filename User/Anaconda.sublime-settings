@@ -1,0 +1,8 @@
+{
+    "anaconda_linting_behaviour": "save-only",
+    "auto_complete_triggers": [{"selector": "source.python - string - comment - constant.numeric", "characters": "."}],
+    "complete_parameters": true,
+    "complete_all_parameters": true,
+    "pep8_ignore": ["E309"],
+    "python_interpreter": "python3"
+}

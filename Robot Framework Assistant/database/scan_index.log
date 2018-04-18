@@ -1,0 +1,1170 @@
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
+Traceback (most recent call last):
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/run_scanner.py", line 9, in <module>
+    from queue.scanner import Scanner
+  File "/Users/jonjiang/Library/Application Support/Sublime Text 3/Packages/Robot Framework Assistant/dataparser/queue/scanner.py", line 7, in <module>
+    from finder import finder
+ModuleNotFoundError: No module named 'finder'
